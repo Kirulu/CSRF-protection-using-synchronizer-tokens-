@@ -1,1 +1,0 @@
-# CSRF-protection-using-synchronizer-tokens-
